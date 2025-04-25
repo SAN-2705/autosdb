@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SANTHOLINS FURTADO</title>
+    <title>SANTHOLIN SFURTADO - Autos Database</title>
 </head>
 <body>
-// <title>SANTHOLINS FURTADO</title>
     <h1>Welcome to Autos Database</h1>
 
     <p><a href="login.php">Please Log In</a></p>
@@ -18,7 +17,6 @@
     </p>
 
     <p>
-    
         SANTHOLIN SFURTADO
     </p>
 </body>
